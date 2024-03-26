@@ -23,7 +23,7 @@ This repo sets up the most basic local infrasturcture possible to demonstrate se
 
 
 ## Using the Demo
-- Run all cells in the Consumer notebooks first.  The last cell will be listening for incomming data when you see "Topic unknown, creating main_topic topic".
+- Run all cells in the Consumer notebooks first.  The last cell will be listening for incomming data when you see the * next to the cell.
 - Run the all cells in the Producer notebooks.  You will see data being sent from the Producer and that same data being recieved by the Consumer.
 - ...and now we can do stuff with the data!
 
